@@ -1,2 +1,2 @@
 # Dupes
-Rebooting sample MD5 scanner
+Sample MD5 scanner
